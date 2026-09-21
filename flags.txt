@@ -1,0 +1,3 @@
+puzzle1: flag{s3cr3t_5tuff_h3r3}
+puzzle2: flag{0n3_t1m3_3ncr7pti0n_0n1y}
+puzzle3: flag{w0w_th4t5_a_l0t_of_structur3}
